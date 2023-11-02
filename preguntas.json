@@ -1,0 +1,40 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Tu personaje es hombre?",
+      "rasgo": "hombre"
+    },
+    {
+      "pregunta": "Tu personaje es mujer?",
+      "rasgo": "mujer"
+    },
+    {
+      "pregunta": "Tu personaje es un animal?",
+      "rasgo": "animal"
+    },
+    {
+      "pregunta": "Tu personaje es de la nacion del fuego?",
+      "rasgo": "fuego"
+    },
+    {
+      "pregunta": "Tu personaje es de la tribu del agua?",
+      "rasgo": "agua"
+    },
+    {
+      "pregunta": "Tu personaje es del reino tierra?",
+      "rasgo": "tierra"
+    },
+    {
+      "pregunta": "Tu personaje es de los nomadas del aire?",
+      "rasgo": "aire"
+    },
+    {
+      "pregunta": "Tu personaje controla algun elemento?",
+      "rasgo": "maestro"
+    },
+    {
+      "pregunta": "Tu personaje vuela?",
+      "rasgo": "volar"
+    }
+  ]
+}

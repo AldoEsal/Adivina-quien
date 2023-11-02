@@ -1,0 +1,144 @@
+{
+  "personajes": [
+    {
+      "nombre": "Aang",
+      "descripcion": {
+        "hombre": true,
+        "mujer": false,
+        "animal": false,
+        "fuego": false,
+        "agua": false,
+        "tierra": false,
+        "aire": true,
+        "maestro": true,
+        "volar": false
+      }
+    },
+    {
+      "nombre": "Zuko",
+      "descripcion": {
+        "hombre": true,
+        "mujer": false,
+        "animal": false,
+        "fuego": true,
+        "agua": false,
+        "tierra": false,
+        "aire": false,
+        "maestro": true,
+        "volar": false
+      }
+    },
+    {
+      "nombre": "Katara",
+      "descripcion": {
+        "hombre": false,
+        "mujer": true,
+        "animal": false,
+        "fuego": false,
+        "agua": true,
+        "tierra": false,
+        "aire": false,
+        "maestro": true,
+        "volar": false
+      }
+    },
+    {
+      "nombre": "Appa",
+      "descripcion": {
+        "hombre": false,
+        "mujer": false,
+        "animal": true,
+        "fuego": false,
+        "agua": false,
+        "tierra": false,
+        "aire": false,
+        "maestro": false,
+        "volar": true
+      }
+    },
+    {
+      "nombre": "Toph",
+      "descripcion": {
+        "hombre": false,
+        "mujer": true,
+        "animal": false,
+        "fuego": false,
+        "agua": false,
+        "tierra": true,
+        "aire": false,
+        "maestro": true,
+        "volar": false
+      }
+    },
+    {
+      "nombre": "Iroh",
+      "descripcion": {
+        "hombre": true,
+        "mujer": false,
+        "animal": false,
+        "fuego": true,
+        "agua": false,
+        "tierra": false,
+        "aire": false,
+        "maestro": true,
+        "volar": false
+      }
+    },
+    {
+      "nombre": "Azula",
+      "descripcion": {
+        "hombre": false,
+        "mujer": true,
+        "animal": false,
+        "fuego": true,
+        "agua": false,
+        "tierra": false,
+        "aire": false,
+        "maestro": true,
+        "volar": false
+      }
+    },
+    {
+      "nombre": "General Fong",
+      "descripcion": {
+        "hombre": true,
+        "mujer": false,
+        "animal": false,
+        "fuego": false,
+        "agua": false,
+        "tierra": true,
+        "aire": false,
+        "maestro": true,
+        "volar": false
+      }
+    },
+    {
+      "nombre": "Princesa Yue",
+      "descripcion": {
+        "hombre": false,
+        "mujer": true,
+        "animal": false,
+        "fuego": false,
+        "agua": true,
+        "tierra": false,
+        "aire": false,
+        "maestro": false,
+        "volar": false
+      }
+    },
+    {
+      "nombre": "Sokka",
+      "descripcion": {
+        "hombre": true,
+        "mujer": false,
+        "animal": false,
+        "fuego": false,
+        "agua": true,
+        "tierra": false,
+        "aire": false,
+        "maestro": false,
+        "volar": false
+      }
+    }
+  ]
+}
